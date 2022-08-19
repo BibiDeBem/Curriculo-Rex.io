@@ -1,0 +1,102 @@
+/* CSS do projeto*/
+body{
+	background-color: lightGray;	
+	font-family: Verdana;
+}
+header{
+	width: 793px;
+	height: 180px;
+	background-image: linear-gradient(black, red, white);
+	/*background-image:radial-gradient(lightGray 33%, blue 33%, black 34%);*/
+	text-align: center;
+	color: white;
+}
+div{
+	width: 793px;
+	height: 1123px;	
+	margin: auto;
+	background-color:white;
+}
+footer{
+	width: 763px;
+	height: 100px;
+	background-image: linear-gradient(white, red, black);
+	text-align: left;
+	color: white;
+	float: left;
+	padding-left: 30px;
+	}
+.imagem{
+	text-align: center;
+	width: 35%;
+	height: 843px;
+	background-image: white;
+	float: left;
+}
+.img1{
+	width: 100%;
+	height: 200px;	
+	text-align: center;
+}
+.img2{
+	width: 100%;
+	height: 500px;	
+	text-align: center;
+}
+.texto{
+	float: left;
+	width: 60%;
+	height: 100%;	
+	overflow: auto;
+}
+.texto h4{
+	text-align: left;		
+}
+.texto p{
+	text-align: justify;
+	text-indent: 8%; 
+	padding-left: 0%;
+	padding-right: 2%;	
+}
+/*
+div{
+	padding: 15px;
+	float: left;
+}
+.exemplo{
+	height: 400px;
+	margin: auto;
+	background-color: orange;
+	border: 3px solid orange;	
+}
+.exemplo h1{
+	margin: 0;	
+}
+.div1{
+	background-color: white;	
+}
+.div2{
+	background-color: blue;	
+}
+.div3{
+	background-color: yellow;	
+}
+.texto{
+	border: 3px solid blue;
+	height: 400px;
+	width: 800px;
+	text-align: justify;
+	text-indent: 2rem;	
+}
+img{
+	width: 170px;
+	height: auto;
+	float: right;
+	margin-left: 10px;
+	background-color: orange;
+	padding: 10px;
+}
+footer{
+	float: right;
+}
+*/
